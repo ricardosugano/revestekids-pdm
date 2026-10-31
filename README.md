@@ -89,4 +89,4 @@ armazenamento criptografado, como o `expo-secure-store`.
 
 ## Autor
 
-Ricardo Sugano — Desenvolvimento de Software Multiplataforma, Fatec Registro.
+Ralky Tech — Desenvolvimento de Software Multiplataforma, Fatec Registro.
