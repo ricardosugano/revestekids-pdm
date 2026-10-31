@@ -4,7 +4,7 @@ Versão mobile do **ReVeste Kids**, plataforma de troca de roupas infantis, dese
 **Programação para Dispositivos Móveis (PDM)** da Fatec Registro, com React Native, Expo e Expo Router.
 
 O app usa o mesmo backend do projeto web
-([toledorp/reveste-kids-colaboracao](https://github.com/toledorp/reveste-kids-colaboracao)):
+([Ralky-Tech/reveste_kids](https://github.com/Ralky-Tech/reveste_kids)):
 contas, peças e curtidas são as mesmas do site.
 
 ## Funcionalidades
